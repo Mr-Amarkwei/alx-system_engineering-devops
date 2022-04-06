@@ -1,2 +1,3 @@
 #!/bin/bash
-sed -i 's/[Ac]/[Ze]/g'
+sed 's/[A]/[Z]/g'
+sed 's/[c]/[e]/g'
