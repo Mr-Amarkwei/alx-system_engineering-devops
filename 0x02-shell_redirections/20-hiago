@@ -1,2 +1,2 @@
 #!/bin/bash
-"${//Cc}"
+tr -d C | tr -d c
